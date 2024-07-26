@@ -1,0 +1,6 @@
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\bin\Debug\Shared.Models.dll
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\bin\Debug\Shared.Models.pdb
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\obj\Debug\Shared.Models.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\obj\Debug\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\obj\Debug\Shared.Models.dll
+C:\Users\casper\Desktop\ali_masaüstü\WEB\RABBITMQ-EXAMPLE\rabbitmq-back-api\Shared.Models\obj\Debug\Shared.Models.pdb

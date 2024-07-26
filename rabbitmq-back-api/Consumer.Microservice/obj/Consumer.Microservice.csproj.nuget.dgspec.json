@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Consumer.Microservice\\Consumer.Microservice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Consumer.Microservice\\Consumer.Microservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Consumer.Microservice\\Consumer.Microservice.csproj",
+        "projectName": "Consumer.Microservice",
+        "projectPath": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Consumer.Microservice\\Consumer.Microservice.csproj",
+        "packagesPath": "C:\\Users\\casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Consumer.Microservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Shared.Models\\Shared.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Shared.Models\\Shared.Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Shared.Models\\Shared.Models.csproj",
+        "projectName": "Shared.Models",
+        "projectPath": "C:\\Users\\casper\\Desktop\\ali_masaüstü\\WEB\\RABBITMQ-EXAMPLE\\rabbitmq-back-api\\Shared.Models\\Shared.Models.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
